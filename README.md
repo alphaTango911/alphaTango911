@@ -1,4 +1,5 @@
 <img src="assets/banner.png" width="100%" alt="Anupama Tiwari — human-centered design, design systems, AI agent workflows with explainability, engineering, and product impact" />
+
 # Anupama Tiwari
 
 **10+ years designing products. Now I design how AI agents think.**
