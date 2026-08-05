@@ -39,7 +39,7 @@ A frontend for AML-style investigation workflows: case inbox with regulatory dea
 #### 🎨 Foundry — open-source design-token engine
 [![Repo](https://img.shields.io/badge/Repo-foundry-181717?style=flat-square&logo=github)](https://github.com/alphaTango911/foundry)
 
-One accent color in → a complete accessible token system out: 10 families × 11 shades, WCAG validation with suggested fixes, semantic mapping, light/dark themes — exported as CSS variables, Tailwind config, `tokens.json`, and Figma variables. Framework-free TypeScript core with **100+ unit tests**, so one engine can power a web app, a Figma plugin, or a CLI.
+One accent color in → a complete accessible token system out: 10 families × 11 shades, WCAG validation with suggested fixes, semantic mapping, light/dark themes — exported as CSS variables, Tailwind config, `tokens.json`, and Figma variables. Framework-free TypeScript core with **129 unit tests**. Published on npm as [`@foundry-ds/core`](https://www.npmjs.com/package/@foundry-ds/core). Same engine powers a [React app](https://foundry-web-lilac.vercel.app/) and an [Angular demo](https://foundry-angular-demo.vercel.app/) — zero code changes to the engine.
 
 ---
 
@@ -56,11 +56,13 @@ One accent color in → a complete accessible token system out: 10 families × 1
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.dev)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+
 
 **Design**
 
