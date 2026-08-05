@@ -37,7 +37,10 @@ An agent that detects drift between approved Figma designs and shipped code — 
 A frontend for AML-style investigation workflows: case inbox with regulatory deadlines, React Flow entity graphs, 360° profiles, and a streaming AI panel whose claims **cite transaction IDs** — with every analyst decision (agree / disagree / needs info) captured into the case record. Intentionally messy data, because investigation tools live on imperfect inputs. Keyboard-operable, screen-reader announced, `prefers-reduced-motion` respected.
 
 #### 🎨 Foundry — open-source design-token engine
-[![Repo](https://img.shields.io/badge/Repo-foundry-181717?style=flat-square&logo=github)](https://github.com/alphaTango911/foundry)
+[![Repo](https://img.shields.io/badge/Repo-foundry-181717?style=flat-square&logo=github)](https://github.com/alphaTango911/foundry) 
+[![React App](https://img.shields.io/badge/Live-React%20App-000000?style=flat-square&logo=vercel)](https://foundry-web-lilac.vercel.app/) 
+[![Angular Demo](https://img.shields.io/badge/Live-Angular%20Demo-000000?style=flat-square&logo=vercel)](https://foundry-angular-demo.vercel.app/) 
+[![npm](https://img.shields.io/badge/npm-%40foundry--ds%2Fcore-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/package/@foundry-ds/core)
 
 One accent color in → a complete accessible token system out: 10 families × 11 shades, WCAG validation with suggested fixes, semantic mapping, light/dark themes — exported as CSS variables, Tailwind config, `tokens.json`, and Figma variables. Framework-free TypeScript core with **129 unit tests**. Published on npm as [`@foundry-ds/core`](https://www.npmjs.com/package/@foundry-ds/core). Same engine powers a [React app](https://foundry-web-lilac.vercel.app/) and an [Angular demo](https://foundry-angular-demo.vercel.app/) — zero code changes to the engine.
 
