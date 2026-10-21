@@ -24,6 +24,12 @@
 
 ### Featured Work
 
+#### ✅ Foundry AI UI workflow — a quality gate for AI-generated UI
+[![Repo](https://img.shields.io/badge/Repo-foundry--ai--ui--workflow-181717?style=flat-square&logo=github)](https://github.com/alphaTango911/foundry-ai-ui-workflow)
+[![Evidence](https://img.shields.io/badge/Read-Evidence%20report-2F855A?style=flat-square)](https://github.com/alphaTango911/foundry-ai-ui-workflow/blob/main/EVIDENCE.md)
+
+The system AI generates against, built on Foundry and DC Drift: an instruction file with every allowed component and token, generate / review / repair prompts, a checker that renders every UI state and runs 21 structural checks with a release gate, and an eval set with expectations written before each run. ChatGPT and Claude both passed every structural check first time — and human review still caught an invisible focus ring the checker missed. The evidence report publishes that, plus what the exercise exposed in my own tools.
+
 #### 🔍 DC Drift — AI agent for design–code verification
 [![Repo](https://img.shields.io/badge/Repo-dc--drift-181717?style=flat-square&logo=github)](https://github.com/alphaTango911/dc-drift)
 [![Live](https://img.shields.io/badge/Live-Dashboard-000000?style=flat-square&logo=vercel)](https://dc-drift-alphatango911.vercel.app/)
@@ -42,7 +48,7 @@ A frontend for AML-style investigation workflows: case inbox with regulatory dea
 [![Angular Demo](https://img.shields.io/badge/Live-Angular%20Demo-000000?style=flat-square&logo=vercel)](https://foundry-angular-demo.vercel.app/) 
 [![npm](https://img.shields.io/badge/npm-%40foundry--ds%2Fcore-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/package/@foundry-ds/core)
 
-One accent color in → a complete accessible token system out: 10 families × 11 shades, WCAG validation with suggested fixes, semantic mapping, light/dark themes — exported as CSS variables, Tailwind config, `tokens.json`, and Figma variables. Framework-free TypeScript core with **129 unit tests**. Published on npm as [`@foundry-ds/core`](https://www.npmjs.com/package/@foundry-ds/core). Same engine powers a [React app](https://foundry-web-lilac.vercel.app/) and an [Angular demo](https://foundry-angular-demo.vercel.app/) — zero code changes to the engine.
+One accent color in → a complete accessible token system out: 6 families × 11 shades, WCAG validation with suggested fixes, semantic mapping, light/dark themes — exported as CSS variables, Tailwind config, `tokens.json`, and W3C DTCG. Framework-free TypeScript core with **140 unit tests**. Published on npm as [`@foundry-ds/core`](https://www.npmjs.com/package/@foundry-ds/core). Same engine powers a [React app](https://foundry-web-lilac.vercel.app/) and an [Angular demo](https://foundry-angular-demo.vercel.app/) — zero code changes to the engine.
 
 ---
 
